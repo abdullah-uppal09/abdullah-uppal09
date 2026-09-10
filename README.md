@@ -1,14 +1,17 @@
 # Hi, I'm Abdullah Hassan 👋
 
-🎓 BS Data Science Student
+### 🛠️ Skills & Technologies
 
-I'm currently learning and building projects in:
-
+- ☕ Java
 - 🐍 Python
-- 🌐 Web Development
-- 🤖 Artificial Intelligence
+- 🌐 HTML & CSS
+- ⚡ JavaScript
+- 🐘 PHP
+- 🔥 Laravel
+- ⚛️ React
+- 🗄️ MySQL
 - 📊 Data Science
-- 🗄️ Databases
+- 🤖 Artificial Intelligence
 
 ### 🚀 Currently Learning
 
@@ -16,7 +19,7 @@ I'm currently learning and building projects in:
 - APIs & Authentication
 - React
 - Git & GitHub
-- AI & Machine Learning
+- Machine Learning
 
 ### 🛠️ Skills
 
