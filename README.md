@@ -23,7 +23,7 @@
 
 ### 🛠️ Skills
 
-Python | Java | HTML | CSS | JavaScript | SQL | Git | GitHub
+Java | Python | HTML | CSS | JavaScript | PHP | Laravel | React | MySQL | Data Science | AI
 
 ### 📌 Goals
 
